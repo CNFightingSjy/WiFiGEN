@@ -7,7 +7,7 @@ Our model absorbs challenges for the model-based methods including the non-linea
 The network is also designed to best fit measured WiFi signals and the desired imaging output. For reproducibility, we will release the data and code upon acceptance.
   
 ## Recent Updates
-**`2023.11.25`**: Initial code release  
+***`2023.11.25`***: Initial code release  
 =======
 
-The training code will be released after publishing our work.
+The training code will be released soon.
