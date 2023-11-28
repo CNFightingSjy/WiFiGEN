@@ -4,7 +4,7 @@
 Our proposed WiFi-GEN network achieves a shape reconstruction accuracy that is 275\% of that achieved by physical model-based inversion methods.
 To examine the effectiveness of models for this task, the first large-scale dataset is released containing 80,000 pairs of WiFi signal and imaging target.
 Our model absorbs challenges for the model-based methods including the non-linearity, ill-posedness and non-certainty into massive parameters of our generative AI network. 
-The network is also designed to best fit measured WiFi signals and the desired imaging output. For reproducibility, we will release the data and code upon acceptance.
+The network is also designed to best fit measured WiFi signals and the desired imaging output.
   
 ## Recent Updates
 ***`2023.11.25`***: Initial code release  
